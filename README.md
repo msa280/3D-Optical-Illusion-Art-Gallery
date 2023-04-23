@@ -27,7 +27,7 @@ F6 - Turn Yellow Traffic Signal On
 F7 - Turn Green Traffic Signal On
 
 
-Instruction to run project:
+Instruction to run project in Linux:
 
 1. Download the project zip file and drag it to your desktop.
 2. Extract items from the zip. A folder called “msa280” would appear.
